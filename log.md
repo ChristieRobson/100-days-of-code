@@ -8,6 +8,14 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
 
+### Day 2: Wed 4th January 2016
+
+**Today's Progress**: Continued FreeCodeCamp Wikipedia View challenge. Investigated API and got search results working.
+
+**Thoughts:** Not sure if using API correctly or not - using search and then getting URL by just using given title. Still need to do clean up option for exiting out of then current search and style panels better. Also look at how I'm getting search input contents, I've having to seperately handle an enter press and a button press which I think should be simplier. 
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
+
 <!--- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
