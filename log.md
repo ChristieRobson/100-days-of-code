@@ -16,6 +16,14 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
 
+### Day 3: Thurs 5th January 2016
+
+**Today's Progress**: Continued FreeCodeCamp Wikipedia View challenge. Functionality and some error handling added.
+
+**Thoughts:** Think I've improved on UX of original by providing feedback when search term is blank or search returns zero results. I think it now meets the requirements of the challenge, however page results are long, think I might want to dearrange how results are shown in the panels.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
+
 <!--- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
