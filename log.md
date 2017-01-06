@@ -24,6 +24,14 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
 
+### Day 4: Fri 6th January 2016
+
+**Today's Progress**: Picked up FreeCodeCamp TwitchTv challenge again. Returns logo and stream info.
+
+**Thoughts:** I started this a while ago but got confused when it stopped working - there is now an update on how to get round this on FCC. I got it working again and havemoved from having the users listed in the html to being created programatically. This means FreeCodeCamp is currently lower case and I need to get the proper display name from the returned json instread(TODO). I haven't styled it at all yet so it looks very basic.
+
+**Link to work:** [TwitchTv JSON API](http://codepen.io/christie/full/zKqNag/)
+
 <!--- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
