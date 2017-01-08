@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Tues 3rd January 2016
+### Day 1: Tues 3rd January 2017
 
 **Today's Progress**: Started FreeCodeCamp Wikipedia View challenge. Layout done and random button working.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
 
-### Day 2: Wed 4th January 2016
+### Day 2: Wed 4th January 2017
 
 **Today's Progress**: Continued FreeCodeCamp Wikipedia View challenge. Investigated API and got search results working.
 
@@ -16,7 +16,7 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
 
-### Day 3: Thurs 5th January 2016
+### Day 3: Thurs 5th January 2017
 
 **Today's Progress**: Continued FreeCodeCamp Wikipedia View challenge. Functionality and some error handling added.
 
@@ -24,11 +24,27 @@
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/christie/full/dNyZMN/)
 
-### Day 4: Fri 6th January 2016
+### Day 4: Fri 6th January 2017
 
 **Today's Progress**: Picked up FreeCodeCamp TwitchTv challenge again. Returns logo and stream info.
 
 **Thoughts:** I started this a while ago but got confused when it stopped working - there is now an update on how to get round this on FCC. I got it working again and havemoved from having the users listed in the html to being created programatically. This means FreeCodeCamp is currently lower case and I need to get the proper display name from the returned json instread(TODO). I haven't styled it at all yet so it looks very basic.
+
+**Link to work:** [TwitchTv JSON API](http://codepen.io/christie/full/zKqNag/)
+
+### Day 5: Sat 7th January 2017
+
+**Today's Progress**: Added returning of the users icon and display name. Started styling.
+
+**Thoughts:** Learnt that you can't do border radius on a tr only the td'd within it, so to create a table row that looks like it has rounded edges need to style first and last td child of the tr.
+
+**Link to work:** [TwitchTv JSON API](http://codepen.io/christie/full/zKqNag/)
+
+### Day 6: Sunday 8th January 2016
+
+**Today's Progress**: Minor styling. Added buttons to toggle between all/online only/offline only.
+
+**Thoughts:** Getting radio buttons in to choose between online/offline was easy to do with Jquery, just needed to have some classes on to identify which was which, but I'd added these today so I could differentiate byt coloured background. This didn't look to be a requirement of the project but they had done it in the example. The styling is OK but I think I could do better, but for now I'd prefer to move on to a more interesting project (the difficult bit/learn for this task was getting the return from the API which is in).
 
 **Link to work:** [TwitchTv JSON API](http://codepen.io/christie/full/zKqNag/)
 
