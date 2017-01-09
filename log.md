@@ -40,13 +40,21 @@
 
 **Link to work:** [TwitchTv JSON API](http://codepen.io/christie/full/zKqNag/)
 
-### Day 6: Sunday 8th January 2016
+### Day 6: Sunday 8th January 2017
 
 **Today's Progress**: Minor styling. Added buttons to toggle between all/online only/offline only.
 
 **Thoughts:** Getting radio buttons in to choose between online/offline was easy to do with Jquery, just needed to have some classes on to identify which was which, but I'd added these today so I could differentiate byt coloured background. This didn't look to be a requirement of the project but they had done it in the example. The styling is OK but I think I could do better, but for now I'd prefer to move on to a more interesting project (the difficult bit/learn for this task was getting the return from the API which is in).
 
 **Link to work:** [TwitchTv JSON API](http://codepen.io/christie/full/zKqNag/)
+
+### Day 7: Monday 9th January 2017
+
+**Today's Progress**: Picked up FreeCodeCamp Pomorodo clock again.
+
+**Thoughts:** Started again getting an arc border to fill on a timer. Have just got circle arc stopping and starting, need to fit this into the rest of the clock section next.
+
+**Link to work:** [Pomorodo clock](http://codepen.io/christie/pen/PWPRwN/)
 
 <!--- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
