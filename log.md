@@ -48,13 +48,25 @@
 
 **Link to work:** [TwitchTv JSON API](http://codepen.io/christie/full/zKqNag/)
 
-### Day 7: Monday 9th January 2017
+### Day 7: Mon 9th January 2017
 
 **Today's Progress**: Picked up FreeCodeCamp Pomorodo clock again.
 
 **Thoughts:** Started again getting an arc border to fill on a timer. Have just got circle arc stopping and starting, need to fit this into the rest of the clock section next.
 
 **Link to work:** [Pomorodo clock](http://codepen.io/christie/pen/PWPRwN/)
+
+### Day 8: Tues 10th January 2017
+
+**Today's Progress**: Updated portfolio for FreeCodeCamp challenge on CodePen.
+
+**Thoughts:** Set up a Cloudinary account to host assets. Took pictures of completed projects to update portfolio (was previously using placeKittens). Some of the earlier FCC challenges I completed look to have stopped working - may need to go back and look at the Weather App and quote generator.
+
+In general the challenges have quite different looking UI's. I'd like to bring the look and feel of them together to give a more unified feel.
+
+**Link to work:** [FreeCodeCamp Portfolio](https://codepen.io/christie/full/QKyAwP/)
+
+
 
 <!--- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
