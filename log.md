@@ -66,7 +66,45 @@ In general the challenges have quite different looking UI's. I'd like to bring t
 
 **Link to work:** [FreeCodeCamp Portfolio](https://codepen.io/christie/full/QKyAwP/)
 
+### Day 9: Sat 21st January 2017
 
+**Today's Progress**: Started Google's [First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0) codelab
+
+**Thoughts:** Slow progress - think I managed to get my enviroment into an inconsistent state (managed to get undefined into the cached json). Managed to clear up when I cleared the data out.
+
+**Link to work:** [Weather PWA](https://weatherpwacodelab.firebaseapp.com/)
+
+### Day 10: Sun 22nd January 2017
+
+**Today's Progress**: Contined First Progressive Web App Codelab
+
+**Thoughts:** Only got basics covered in tutorial working. There we more learning points e.g. minifying the CSS and using indexDB that I should look further into. Have had problems deploying to Firebase - I seem to have deployed something but can't see what files it's deployed in the Firebase console and it doesn't need to be working.
+
+**Link to work:** [Weather PWA](https://weatherpwacodelab.firebaseapp.com/)
+
+### Day 11: Sat 28th January 2017
+
+**Today's Progress**: Started Udemy course [Angular Zero to Hero](https://www.udemy.com/angularjs-from-zero-to-hero/learn/v4/overview)
+
+**Thoughts:** First time with Angular, taking a while to go through trying to understand what I'm doing. Watched form validation section.
+
+**Link to work:** [Form Validation Codepen](http://codepen.io/christie/pen/d8f4d1420ad4862704f5f9598364b170)
+
+### Day 12: Sun 29th January 2017
+
+**Today's Progress**: Continued [Angular Zero to Hero](https://www.udemy.com/angularjs-from-zero-to-hero/learn/v4/overview)
+
+**Thoughts:** Set up codepen to do my own version of form - considering what you would want for a cafe table reservation form. Have had a bit of trouble getting checkboxes to work as I wanted; I has trying to get an array with those ticked as values in it, rather than true/false for each attribute. There did look to be a directive [checklist-model](https://vitalets.github.io/checklist-model/) that did this but I couldn't figureout how to get it into codepen, need to have another look at this.
+
+**Link to work:** [Form Validation Codepen](http://codepen.io/christie/pen/d8f4d1420ad4862704f5f9598364b170)
+
+### Day 13: Mon 30th January 2017
+
+**Today's Progress**: Eventually got the hosting working on Weather Progressive Web App
+
+**Thoughts:** The [tutorial](https://weatherpwacodelab.firebaseapp.com/) isn't clear what options you need to select to deploy to Firebase. Originally I started trying to init from the folder I wanted to deploy but I hvae eventually got it working by deploying from above folder and listing work as the public folder. I like that Firebase makes https hosting easy but I find the console confusing; I am unclear how you can see what files you've actually deployed.  
+
+**Link to work:** [Weather PWA](https://weatherpwacodelab.firebaseapp.com/)
 
 <!--- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
