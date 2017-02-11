@@ -106,6 +106,28 @@ In general the challenges have quite different looking UI's. I'd like to bring t
 
 **Link to work:** [Weather PWA](https://weatherpwacodelab.firebaseapp.com/)
 
+### Day 14: Sun 5th February 2017
+
+**Today's Progress**: Working through Udacity course [Angular Zero to Hero](https://www.udemy.com/angularjs-from-zero-to-hero/learn/v4/overview)
+
+**Thoughts:** Working through list app alone with the tutorial. Would prefer it if the course had challenges to go off and create something. Going to use what I've learnt here to do an angular todo app. 
+
+### Day 15: Thur 9th February 2017
+
+**Today's Progress**: Started todo app on codepen using AngularJS
+
+**Thoughts:** Slight confusion as Codepen have changed there defualt Bootstrap from V3 to V4. Getting used to doing everything in an angular way, i.e. binding, rather than grabbing things out of the DOM myself is taking a bit of getting used to.
+
+**Link to work:** [Todo app on Codepen](http://codepen.io/christie/full/3b31571a6a6f7177cecaaf54aafcd17b/)
+
+### Day 16: Sun 11th February 2017
+
+**Today's Progress**: Basic Todo app working
+
+**Thoughts:** Worked out basic adding and removing elements wiwth Angular. I want to make a more advanced version, multiple lists etc and then build it into a progressive wep app. Probably want to start with designing what it will look like - the basic version I've got now is very rough in Bootstrap just so I could get my head around Angular.
+
+**Link to work:** [Todo app on Codepen](http://codepen.io/christie/full/3b31571a6a6f7177cecaaf54aafcd17b/)
+
 <!--- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
